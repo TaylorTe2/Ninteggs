@@ -63,6 +63,11 @@ header {
     margin-right: 100px;
 }
 
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 nav ul {
     display: flex;
     flex-direction: row;
